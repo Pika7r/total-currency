@@ -9,8 +9,9 @@ body {
 
 header {
     text-align: center;
+    padding-bottom: 10px;
     /* margin: 20; */
-    font-size: 200%;
+    font-size: 300%;
     font-family: cursive;
 }
 
@@ -44,17 +45,17 @@ label{
     text-align: center;
 
 }
-
+/* 
 .counter {
     margin: 0;
     text-align: center;
-}
+} */
 
 .totalcss {
     background-color: rgb(25, 177, 8);
     padding: 10px;
     font-size: 20px;
-    width: 50%;
+    /* width: 50%; */
     margin: auto;
     border-radius: 12px;
 }
